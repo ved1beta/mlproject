@@ -1,4 +1,9 @@
 pandas
 numpy
 seaborn
+dill
+xgboost
+scikit-learn
+catboost
+dill
 -e .
